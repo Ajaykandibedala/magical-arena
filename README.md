@@ -23,7 +23,7 @@ Magical Arena is a Node.js-based simulation where two players battle in a turn-b
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/your-username/magical-arena.git
    ```
 
 2. Navigate to the project directory:
